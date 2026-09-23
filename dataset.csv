@@ -1,0 +1,61 @@
+ticket,category,priority,queue
+"I was charged twice for my subscription this month. Please issue a refund immediately.",Billing,High,Billing Support
+"Where can I download my latest invoice for tax reporting purposes?",Billing,Low,Billing Support
+"My credit card expired and the renewal payment failed. How do I update payment info?",Billing,Medium,Billing Support
+"I want to cancel my recurring subscription and request a pro-rated refund.",Billing,Medium,Billing Support
+"Why is there an unexpected $49 charge on my credit card statement?",Billing,High,Billing Support
+"Can I switch from monthly billing to an annual discount plan?",Billing,Low,Billing Support
+"Our company needs to update our VAT and tax exemption number on all future bills.",Billing,Low,Billing Support
+"I was promised a 20% discount coupon but my invoice shows the full price.",Billing,Medium,Billing Support
+"My bank declined the international transaction for my enterprise license fee.",Billing,Medium,Billing Support
+"We were billed after our account was supposed to be canceled. Need emergency refund immediately.",Billing,High,Billing Support
+"Is there any student or educational discount available for the premium tier?",Billing,Low,Billing Support
+"Payment gateway keeps giving error 4002 when entering my Mastercard details.",Billing,High,Billing Support
+"My payment went through but my account still says subscription expired.",Billing,High,Billing Support
+"How do I update the billing address and receipt recipient email for invoices?",Billing,Low,Billing Support
+"The checkout page failed during payment processing and charged my card anyway.",Billing,High,Billing Support
+"Could you send me an itemized receipt for our annual software subscription?",Billing,Low,Billing Support
+"The entire web application is down and returning HTTP 500 internal server error.",Technical,High,Technical Support
+"My internet connection is not working and I cannot access the application.",Technical,High,Technical Support
+"Network connection timeout error: unable to connect or access the main server.",Technical,High,Technical Support
+"The dashboard is loading extremely slowly taking over 30 seconds to fetch data.",Technical,Medium,Technical Support
+"Getting an uncaught TypeError in the browser console when clicking the export button.",Technical,Medium,Technical Support
+"API requests to the /v1/sync endpoint are returning 504 Gateway Timeout.",Technical,High,Technical Support
+"The mobile app crashes immediately on startup on iOS 17 after the latest update.",Technical,High,Technical Support
+"Minor CSS styling glitch: the submit button overlaps the footer text on Firefox.",Technical,Low,Technical Support
+"WebSocket connection drops repeatedly every few minutes during live data sync.",Technical,High,Technical Support
+"Images uploaded to the asset manager appear blurry or fail to render previews.",Technical,Low,Technical Support
+"Database connection pool exhausted during peak traffic hours causing service freeze.",Technical,High,Technical Support
+"The PDF export feature is generating blank pages for monthly summary reports.",Technical,Medium,Technical Support
+"Dark mode toggle resets to light mode whenever I refresh the page.",Technical,Low,Technical Support
+"Getting SSL certificate expired warning when attempting to access the client portal.",Technical,High,Technical Support
+"Critical security vulnerability found in the authentication token validation endpoint.",Technical,High,Technical Support
+"System crash occurred while rendering large reports resulting in memory error.",Technical,High,Technical Support
+"I forgot my password and the reset link email never arrives in my inbox.",Account,High,Account Support
+"My account has been locked due to too many failed login attempts. Please unlock it immediately.",Account,High,Account Support
+"How do I enable two-factor authentication using Google Authenticator on my profile?",Account,Low,Account Support
+"I need to change the primary email address associated with my administrative profile.",Account,Medium,Account Support
+"I suspect unauthorized login activity from an unknown IP address on my account.",Account,High,Account Support
+"How do I permanently delete my account and purge all personal stored data?",Account,Medium,Account Support
+"We need to transfer ownership of our team workspace to a new administrator.",Account,Medium,Account Support
+"Unable to verify my phone number because SMS confirmation codes are not delivering.",Account,Medium,Account Support
+"Can I invite additional team members to our organization account with custom roles?",Account,Low,Account Support
+"My account was suspended without prior notice. Please review and reinstate access immediately.",Account,High,Account Support
+"How can I view my active login sessions and log out of all remote devices?",Account,Low,Account Support
+"Updating my display name and avatar in profile settings fails with permission denied.",Account,Low,Account Support
+"I am locked out of 2FA because I lost my authenticator device and have no backup codes.",Account,High,Account Support
+"Cannot log into my customer portal account despite typing the correct credentials.",Account,High,Account Support
+"Is there a roadmap for adding dark mode support to the mobile tablet application?",Product,Low,Product Support
+"Would love to see a native integration with Slack and Microsoft Teams notifications.",Product,Low,Product Support
+"The current analytics chart lacks the ability to filter metrics by custom date ranges.",Product,Medium,Product Support
+"Can you please add CSV export functionality to the user management audit logs?",Product,Low,Product Support
+"The drag-and-drop workflow builder is unintuitive and hard to rearrange steps.",Product,Medium,Product Support
+"Can we get keyboard shortcuts for quick navigation between open support tickets?",Product,Low,Product Support
+"Please consider adding bulk editing capabilities for tagging multiple tickets at once.",Product,Medium,Product Support
+"We urgently need webhook event support for automated third-party CRM synchronization.",Product,High,Product Support
+"Feature request: Allow custom branding and company logos on exported client reports.",Product,Low,Product Support
+"The search bar does not support wildcard queries or boolean operators like AND/OR.",Product,Medium,Product Support
+"Would be great if we could set custom email notification templates for each team.",Product,Low,Product Support
+"Can we request a dedicated sandbox environment to test new features before release?",Product,Medium,Product Support
+"The new reporting UI redesign made our daily workflow much slower and cluttered.",Product,Medium,Product Support
+"Feature suggestion: allow automated scheduled report emails sent to stakeholders.",Product,Low,Product Support
